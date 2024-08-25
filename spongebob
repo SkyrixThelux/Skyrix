@@ -1,0 +1,42 @@
+/**
+ * @name spongebob
+ * @author Skyrix
+ * @version 1.3.X
+ * @description Spongebob theme
+ * @source https://github.com/SkyrixThelux/Skyrix/new/main
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+    --background: url('https://i.pinimg.com/564x/ff/8e/fe/ff8efe46d02cd951c24035a642274568.jpg');
+    --activetext-colour: Yellow;
+
+    --primary1-colour: rgb(255, 157, 0);
+    --primary2-colour: rgb(255, 242, 0);
+    --primary3-colour: rgb(255, 200, 0);
+
+    --secondary1-colour: rgba(75, 240, 255, 0.3);
+    --secondary2-colour: rgba(0, 255, 213, 0.5);
+    --secondary3-colour: rgb(0, 247, 255);
+
+    --transparency-1: linear-gradient(to right, rgb(0, 255, 162), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgb(6, 82, 71), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0, 221, 255, 0.327), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgb(107, 108, 2), 0.918), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgb(107, 108, 2), rgba(0,0,0,0.5));
+}
+  
+/*
+Theme Owned and Made by skyrixthelux
+  
+Background Img: https://i.pinimg.com/564x/ff/8e/fe/ff8efe46d02cd951c24035a642274568.jpg
+
+The 2 items above are not owned by me, They go to there respected owners 
+*/
+body {
+  font-family: 'matemasie', serif;
+  font-size: 18px;
+  font-style: italic;
+  text-shadow: 1px 1px 1px rgb(5, 5, 5);
